@@ -1,0 +1,8 @@
+
+site/
+venv/
+.idea/
+node_modules/
+*.egg-info
+*.swp
+.DS_Store
